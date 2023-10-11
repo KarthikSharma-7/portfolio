@@ -53,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'Competative Programmer',
+    title: 'Competitive Programmar',
     icon: creator,
   },
 ];
