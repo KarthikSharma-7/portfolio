@@ -170,7 +170,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: 'https://github.com/KarthikSharma-7',
+    source_code_link: 'https://github.com/KarthikSharma-7/portfolio',
   },
   {
     name: 'Sharepic',
